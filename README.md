@@ -3,7 +3,7 @@
 <p align="center">
   3rd-year CS @ Western University &nbsp;·&nbsp; London, Ontario<br/>
   Full-stack dev with a lean toward backend systems, data workflows, and AI tooling<br/>
-  <strong>Actively seeking SWE / Data / Full-stack internships — May 2026 start</strong>
+  <strong>Actively seeking SWE / Data / Full-stack internships — Sept 2026 start</strong>
 </p>
 
 <p align="center">
