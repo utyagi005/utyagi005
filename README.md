@@ -66,14 +66,6 @@ Full-stack AI-assisted workout tracker with plan generation, progress analytics,
 - SQLite persistence and demo data seeding.
 - Focused on turning user data into useful recommendations and progress feedback.
 
-### [URL Shortener](https://github.com/utyagi005/url-shortener)
-
-Full-stack URL shortener with custom aliases, click analytics, and a React dashboard.
-
-- Node.js, Express, SQLite, and React.
-- Tracks visits and exposes analytics for shortened links.
-- Emphasizes clean API design and practical product flows.
-
 ### [Price Tracker](https://github.com/utyagi005/price-tracker)
 
 Python CLI tool for monitoring product prices and alerting when they drop below a target.
