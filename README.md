@@ -1,71 +1,124 @@
 <h1 align="center">Uday Tyagi</h1>
 
 <p align="center">
-  3rd-year CS @ Western University &nbsp;·&nbsp; London, Ontario<br/>
-  Full-stack dev with a lean toward backend systems, data workflows, and AI tooling<br/>
-  <strong>Actively seeking SWE / Data / Full-stack internships — Sept 2026 start</strong>
+  Computer Science @ Western University · London, Ontario<br/>
+  Building practical software across GenAI, full-stack systems, data workflows, and desktop products
 </p>
 
 <p align="center">
-  <a href="https://utyagi005.github.io/portfolio/">Portfolio</a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/udaytyagi-western/">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="mailto:utyagi@uwo.ca">utyagi@uwo.ca</a>
+  <a href="https://utyagi005.github.io/portfolio/">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/udaytyagi-western/">LinkedIn</a> ·
+  <a href="mailto:utyagi@uwo.ca">utyagi@uwo.ca</a> ·
+  <a href="https://github.com/utyagi005">GitHub</a>
 </p>
 
 ---
 
-## About
+## What I'm Looking For
 
-I build things end-to-end — from database schema to React UI — and I care about making them work reliably, not just demo-well. Most of my projects started from a real problem I wanted to solve or a system I wanted to understand better.
+I'm looking for internship and co-op opportunities where I can contribute to real engineering work and keep learning from strong teams.
 
-Currently wrapping up my third year at Western. Outside of code I run long distances and help run the Western Coffee Club.
+Roles I am especially interested in:
 
----
+- Software Engineering / Software Development
+- GenAI and AI product engineering
+- Data Engineering / Analytics Engineering
+- Backend or Full-Stack Engineering
 
-## Stack
+I like projects where the work crosses boundaries: user experience, APIs, databases, automation, reliability, and a bit of product judgment. My best work usually starts with a real operational problem and turns into a shipped tool.
 
-**Languages** — JavaScript, Python, Java, C, C++, SQL  
-**Frontend** — React, HTML/CSS  
-**Backend** — Node.js, Express, Spring Boot  
-**Data** — SQLite, pandas, automated ETL scripting  
-**Tools** — Git, Linux, Qt (C++), REST APIs
+## What I Build
 
----
+- **Production-style desktop software:** Electron, React, TypeScript, SQLite, packaging, releases, and QA.
+- **Full-stack applications:** React dashboards, REST APIs, authentication-style flows, data persistence, and clean UI.
+- **AI-assisted products:** smart planning, recommendation-style flows, and tooling that uses AI to reduce repetitive work.
+- **Data workflows:** Python automation, CSV/spreadsheet pipelines, scraping, reporting, and structured data cleanup.
+- **Systems fundamentals:** Java OOP, C/C++, Qt desktop apps, MVC architecture, and testable business logic.
 
-## Projects
+## Technical Skills
 
-### [url-shortener](https://github.com/utyagi005/url-shortener)
-Full-stack URL shortener with click analytics, custom aliases, and a React dashboard. Built with Node.js + Express + SQLite. Focused on clean API design and real-time stat tracking.
+- **Languages:** TypeScript, JavaScript, Python, Java, C, C++, SQL
+- **Frontend:** React, HTML, CSS, responsive UI, dashboard design
+- **Backend:** Node.js, Express, Spring Boot, REST APIs
+- **Data:** SQLite, CSV pipelines, pandas, scraping, ETL-style automation
+- **Desktop:** Electron, Qt, local-first app architecture
+- **Testing & Tools:** Playwright, unit/integration testing, Git, GitHub CLI, Linux, packaging and release workflows
 
-### [smart-inventory-tracker](https://github.com/utyagi005/smart-inventory-tracker)
-Desktop inventory & sales tracker built in C/C++ using Qt, MVC architecture, and Observer/Factory patterns. Includes a [YouTube demo](https://github.com/utyagi005/smart-inventory-tracker). Data persistence via SQLite.
+## Featured Projects
 
-### [workout-tracker](https://github.com/utyagi005/workout-tracker)
-Full-stack AI-assisted workout logger. React frontend, Spring Boot (Java) backend, SQLite storage. Generates personalized workout plans and tracks progress over time.
+### [Nodeskio IMS](https://github.com/utyagi005/IMS-Releases)
 
-### [price-tracker](https://github.com/utyagi005/price-tracker)
-Python CLI tool that scrapes product pages, logs price history to CSV, and fires threshold-based alerts. Useful for monitoring deals across e-commerce sites.
+Offline-first desktop inventory and warehouse control app for small retail teams and stockrooms.
+
+- Built with Electron, React, TypeScript, SQLite, and Electron Builder.
+- Supports products, sales, purchase orders, returns, stock counts, customers, labels, reports, locations, bins, transfers, lots, serials, and expiry traceability.
+- Includes release packaging, updater metadata, migration smoke tests, and Electron end-to-end tests.
+- Current public release: [v0.3.0](https://github.com/utyagi005/IMS-Releases/releases/tag/v0.3.0).
+
+**Why it matters:** this is my largest product-style build so far, covering UI, database design, domain modeling, QA, native packaging, and release management.
+
+### [AI Workout Tracker](https://github.com/utyagi005/workout-tracker)
+
+Full-stack AI-assisted workout tracker with plan generation, progress analytics, and coaching-style insights.
+
+- React frontend with a responsive dashboard UI.
+- Spring Boot / Java backend with REST APIs.
+- SQLite persistence and demo data seeding.
+- Focused on turning user data into useful recommendations and progress feedback.
+
+### [URL Shortener](https://github.com/utyagi005/url-shortener)
+
+Full-stack URL shortener with custom aliases, click analytics, and a React dashboard.
+
+- Node.js, Express, SQLite, and React.
+- Tracks visits and exposes analytics for shortened links.
+- Emphasizes clean API design and practical product flows.
+
+### [Price Tracker](https://github.com/utyagi005/price-tracker)
+
+Python CLI tool for monitoring product prices and alerting when they drop below a target.
+
+- Scrapes product pages.
+- Stores price history in CSV.
+- Automates a repetitive tracking workflow with a small, useful data pipeline.
+
+### [Smart Inventory Tracker](https://github.com/utyagi005/smart-inventory-tracker)
+
+Desktop inventory and sales tracker built with C/C++ and Qt.
+
+- Uses MVC architecture and Observer/Factory patterns.
+- Persists data with SQLite.
+- Helped build my foundation in desktop UI, local data, and inventory-domain modeling.
 
 ### [FurEverFriend](https://github.com/utyagi005/FurEverFriend)
-Java virtual pet simulation with event-driven OOP logic, unit testing, and integration tests. Team project — contributed core state machine and test suite.
 
----
+Java virtual pet simulation focused on event-driven OOP and testing.
 
-## Work
+- Built core simulation/state-machine logic.
+- Includes unit and integration testing.
+- Team project experience with structured Java design.
 
-**Data & Operations Assistant — Homespun Global LLC**  
-Automated data workflows using Python and spreadsheet tooling. Reduced manual processing time by ~30% through scripted ETL pipelines and structured reporting templates.
+## Work Experience
 
----
+**Data & Operations Assistant — Homespun Global LLC**
 
-## Currently
+- Automated data workflows using Python and spreadsheet tooling.
+- Built scripted ETL-style pipelines and structured reporting templates.
+- Reduced manual processing time by about 30%.
 
-- Building a job intelligence dashboard (React + SQLite + Apify) to automate internship tracking
-- Deepening backend skills with Spring Boot and REST API design
-- Long-term goal: AI/ML engineering
+## Current Focus
+
+- Building stronger GenAI product engineering skills through practical, workflow-focused apps.
+- Deepening backend engineering with APIs, databases, testing, and reliability.
+- Improving data engineering fundamentals: ingestion, cleanup, transformation, validation, and reporting.
+- Shipping portfolio projects with better documentation, release notes, and automated checks.
+
+## How I Work
+
+I care about software that works beyond the demo. I like clear schemas, simple interfaces, testable logic, and tools that save real time for real people. I am still early in my career, but I am comfortable learning quickly, asking good questions, and owning a problem from first prototype to usable release.
 
 ---
 
 <p align="center">
-  <sub>Open to roles in software development, data engineering, full-stack, and QA &nbsp;·&nbsp; Available May 2026</sub>
+  Open to internships in Software Engineering, GenAI, Full-Stack, Backend, and Data Engineering
 </p>
