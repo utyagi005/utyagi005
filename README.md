@@ -53,7 +53,7 @@ Offline-first desktop inventory and warehouse control app for small retail teams
 - Built with Electron, React, TypeScript, SQLite, and Electron Builder.
 - Supports products, sales, purchase orders, returns, stock counts, customers, labels, reports, locations, bins, transfers, lots, serials, and expiry traceability.
 - Includes release packaging, updater metadata, migration smoke tests, and Electron end-to-end tests.
-- Current public release: [v0.3.0](https://github.com/utyagi005/IMS-Releases/releases/tag/v0.3.0).
+- Current public release: [v0.3.0](https://github.com/utyagi005/IMS-Releases/releases/tag/v0.4.0).
 
 **Why it matters:** this is my largest product-style build so far, covering UI, database design, domain modeling, QA, native packaging, and release management.
 
