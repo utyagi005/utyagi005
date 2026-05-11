@@ -46,6 +46,17 @@ I like projects where the work crosses boundaries: user experience, APIs, databa
 
 ## Featured Projects
 
+### [Pocket Pivot](https://github.com/utyagi005/PocketPivot)
+
+Native iOS puzzle game built in SwiftUI around a simple but satisfying idea: place colorful pieces, rotate a 2x2 pocket of the board, and turn tense runs into clutch saves.
+
+- Designed and implemented the core game loop, scoring system, daily challenge mode, local run history, streak tracking, and shareable result cards.
+- Built a deterministic game engine with seeded generation and unit tests so daily runs are reproducible and gameplay logic is easier to verify.
+- Added mobile product polish: haptics, sound cues, animated clears, onboarding hints, App Store-style screenshots, icon assets, privacy/support documentation, and optional Firebase/AdMob integration points.
+- Verified with Xcode simulator builds and a 17-test engine suite.
+
+**Why it matters:** this project shows end-to-end product thinking: game mechanics, native iOS UI, retention loops, testing, launch preparation, and the practical details needed to get a real app onto an iPhone.
+
 ### [Nodeskio IMS](https://github.com/utyagi005/IMS-Releases)
 
 Offline-first desktop inventory and warehouse control app for small retail teams and stockrooms.
